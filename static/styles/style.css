@@ -19,3 +19,7 @@ table td {
   border: 1px solid gainsboro;
   padding: .5em;
 }
+
+.featured_image img {
+  width: 100%;
+}
