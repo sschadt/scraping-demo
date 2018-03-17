@@ -6,7 +6,7 @@ from selenium import webdriver
 # Mission to Mars - scraping function
 def init_browser():
     # Initialize Chromedriver path
-    executable_path = {'executable_path': 'chromedriver.exe'}
+    executable_path = {'executable_path': 'chromedriver'}
     return Browser('chrome', **executable_path, headless=False)
 
 def scrape():
