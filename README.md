@@ -1,4 +1,4 @@
-# Web scraping demo: Current Mars information summarized
+# Web scraping demo: Portal displaying latest information about Mars
 
 ### 1 - Scrape data from URLs and insert into MongoDB
 Web scraping function built using Jupyter Notebook, Beautiful Soup, Pandas, and Requests/Splinter. The following information is scaped from various sources:
